@@ -53,7 +53,7 @@
             "source_address_prefix": "*",
             "source_port_range": "*",
             "destination_address_prefix": "*",
-            "destination_port_range": "443"
+            "destination_port_range": "8443"
           }
         ]
       },
